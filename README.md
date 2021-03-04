@@ -1,6 +1,6 @@
 ## Image Classification Examples with Pretrained Neural Nets
 
-In this repo, I'm trying out a Neural Nets to try and classify several images. The variety of NNs will increase over time. For now I'm using models from Keras, such as VGG16, VGG19 which have high accuracy in the ImageNet dataset.
+In this repo, I'm trying out a Neural Nets to try and classify several images. The variety of NNs and methods will increase over time. For now I'm using models from Keras, such as VGG16, VGG19 which have high accuracy in the ImageNet dataset.
 
 ### Getting Started
 
